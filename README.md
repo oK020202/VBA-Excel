@@ -45,7 +45,7 @@ Programs that apply traffics data between railroad station to the vector data of
    加工内容としては、実際の電車の運転路線等を考えた経路指定のためのダミーポイントの追加など。  
    
 # 元データの出どころ  
-  - 国土交通省総合政策局実施の「大都市交通センサス」の調査結果集計表「【鉄道調査】報告書資料編（EXCEL形式）」3.駅別発着・駅間通過人員表（首都圏）のデータ 
+  - 国土交通省総合政策局実施の「大都市交通センサス」の調査結果集計表「【鉄道調査】報告書資料編（EXCEL形式）」3.駅別発着・駅間通過人員表（首都圏）のデータ  
     https://www.mlit.go.jp/sogoseisaku/transport/sosei_transport_tk_000035.html
   - 国土数値情報の「鉄道データ」  
     https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N02-v2_3.html
