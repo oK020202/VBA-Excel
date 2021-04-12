@@ -1,7 +1,7 @@
 __pycache__/
 temp/
 work/temp/
-work/RailroadSection*
-work/RailroadStation*
+work/RailroadSection.*
+work/RailroadStation.*
 work/station*
 work/traffic*
